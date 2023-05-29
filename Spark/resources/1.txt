@@ -1,0 +1,3 @@
+spark hello word hadoop
+hadoop spark hive word
+hadoop hive word
